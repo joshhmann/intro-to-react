@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-react",
+  "version": "1.0.0",
+  "description": "intro to react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshhmann/intro-to-react.git"
+  },
+  "author": "Josh Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshhmann/intro-to-react/issues"
+  },
+  "homepage": "https://github.com/joshhmann/intro-to-react#readme"
+}
